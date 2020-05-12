@@ -1,0 +1,20 @@
+/* pages/common/viewTab/viewTab.wxss */
+.view_common{
+  width: 100%;
+  padding: 2%;
+  font-size: 12px;
+}
+.view_left{
+  float: left;
+  width: 48%;
+  text-align: center;
+}
+.view_right{
+  float: right;
+  width: 48%;
+  text-align: center;
+}
+.view_img{
+ width: 80px;
+ height: 80px;
+}

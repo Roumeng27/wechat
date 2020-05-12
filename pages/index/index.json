@@ -1,0 +1,11 @@
+{
+  "component":true, 
+  "usingComponents": {
+    "i-tabs": "../../static/iview/tabs/index",
+    "i-tab": "../../static/iview/tab/index",
+    "i-notice-bar": "../../static/iview/notice-bar/index",
+    "i-button": "../../static/iview/button/index",
+    "viewTab": "../common/viewTab/viewTab",
+    "pop":"../common/pop/pop"
+  }
+}

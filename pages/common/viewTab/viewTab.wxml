@@ -1,0 +1,11 @@
+<!--pages/common/viewTab/viewTab.wxml-->
+<view class="view_common">
+  <view class="view_left">
+    <image class="view_img" src="../../../static/images/city.jpg"></image>
+    <view>第一张图片</view>
+  </view>
+  <view class="view_right">
+    <image class="view_img" src="../../../static/images/great.jpg"></image>
+    <view>第一张图片</view>
+  </view>
+</view>
